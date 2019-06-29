@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/bg.png</file>
+        <file>img/firefox.png</file>
+        <file>img/navegador.png</file>
+        <file>img/shell.png</file>
+        <file>img/cpumonitor.png</file>
+        <file>img/monitor.png</file>
+        <file>img/web-browser.svg</file>
+        <file>img/pspp.svg</file>
+        <file>img/terminal.svg</file>
+        <file>img/bg_dock.png</file>
+        <file>styles.qss</file>
+        <file>img/elipse.png</file>
+        <file>img/rectangulo.png</file>
+        <file>img/rombo.png</file>
+        <file>img/paralelogramo.png</file>
+        <file>img/flecha.png</file>
+    </qresource>
+</RCC>
